@@ -12,6 +12,7 @@ tagline:          'A Jekyll theme'
 description:      'Debugger of broken apps'
 url:              http://thebentern.github.io
 baseurl:          /
+comments:         true
 
 author:
   name:           'Ben Meadors'
