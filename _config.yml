@@ -13,6 +13,7 @@ description:      'Debugger of broken apps'
 url:              http://thebentern.github.io
 baseurl:          /
 comments:         true
+disqus_shortname: TheBentern
 
 author:
   name:           'Ben Meadors'
