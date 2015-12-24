@@ -1,30 +1,35 @@
 ---
 layout: page
-title: About
+title: About me
 ---
+I've been developing applications since 2009. I started my career building ASP.NET WebForms apps in C#, but since then, I've gone through a great deal of the .NET stack and more recently had the opportunity to develop apps in Ruby on Rails. I love reading and and exploring other tech stacks, but most of my working experience has centered in the .NET world. I'm a big advocate of automated testing (Notice I didn't say TDD), and I particularly enjoy discovering and working on tools that make day to day development go faster and smoother.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Below are some of the technologies I've worked in.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Web
+* ASP.NET WebForms
+* ASP.NET Dynamic Data
+* ASP.NET MVC
+* ASP.NET Web API
+* NodeJS
+* Ruby on Rails
 
-There are currently two themes built on Poole:
+### JavaScript
+* jQuery
+* Knockout
+* Vue.js
+* Angular
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Client
+* Windows Forms
+* WPF
 
-## Setup
+## Scripting
+* Powershell
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### Database
+* SQL Server
+  * SQL Server Integration Services
+  * SQL Server Reporting Services
+* Postgre SQL
