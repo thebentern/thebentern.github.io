@@ -11,8 +11,10 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <div class="post-meta">
+      <span class="glyphicon glyphicon-calendar post-meta-icon" aria-hidden="true"></span>
+      <span class="post-meta-data">{{ post.date | date_to_string }}</span>
+    </div>
 
     {{ post.content }}
   </div>
