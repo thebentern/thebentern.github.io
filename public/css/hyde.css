@@ -58,6 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(20,34,49s,.5);
   background-color: #142231;
+  color: #929292;
 }
 @media (min-width: 48em) {
   .sidebar {
