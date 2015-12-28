@@ -9,7 +9,6 @@ I've been working on an integration component for a web app with a team of devel
 
 ### The Problem
 
-
 <img src="https://i.imgur.com/iWKad22.jpg" alt="facepalm" style="margin: 1em; float: right; max-width: 40%;" />
 Since I had been traditionally the one to communicate with our liaison at this company. I asked him if he could provide us with something in the way of sample data and he obliged, albeit in an unexpected way. After one day passed, I received a zip file via Google Drive share link. I opened it up and found that he had simply exported a very large backup of the system's SQL Server database. Some of my teammates who were CC'd on the email thread noticed the ominous ".bak" file and scornfully remarked "What the heck is that file?!", understandably so, as most hadn't worked on anything in the Microsoft / .NET stack at all.
 
