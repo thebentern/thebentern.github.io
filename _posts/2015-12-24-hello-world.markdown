@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello world!"
+description: "Hello world"
 date:   2015-12-24 06:44:27 -0600
 categories: personal about
 ---

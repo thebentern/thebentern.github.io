@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Exporting SQL data into CSVs via Powershell"
+description: "A quick way to export sample from a SQL Server database using Powershell"
 date:   2015-12-27 06:44:27 -0600
 categories: tools sql powershell
 ---
